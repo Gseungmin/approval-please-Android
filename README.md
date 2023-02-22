@@ -61,7 +61,7 @@
 
 ## 📍 기술 스택
 **Framework**
-- Android Studio : Dolphin 2020.3.1
+- Android Studio : Dolphin 2021.3.1
 - kotlin : 1.8
 - minSdk, targetSdk : 21, 32
 
